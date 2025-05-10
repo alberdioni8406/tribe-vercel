@@ -1,0 +1,88 @@
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>TRIBE on BCH</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;800&display=swap" rel="stylesheet">
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Inter', sans-serif;
+      background-color: #f4f4f4;
+      color: #222;
+      line-height: 1.6;
+    }
+    header {
+      background: #16a34a;
+      color: white;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2rem;
+    }
+    .container {
+      padding: 2rem 1rem;
+      max-width: 800px;
+      margin: auto;
+    }
+    .section {
+      margin-bottom: 2rem;
+    }
+    .section h2 {
+      font-size: 1.5rem;
+      color: #16a34a;
+    }
+    .buttons a {
+      display: inline-block;
+      background: #16a34a;
+      color: white;
+      padding: 0.75rem 1.25rem;
+      margin: 0.5rem 0.5rem 0 0;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: 600;
+      transition: background 0.3s;
+    }
+    .buttons a:hover {
+      background: #15803d;
+    }
+    footer {
+      text-align: center;
+      padding: 1rem;
+      background: #e5e5e5;
+      font-size: 0.9rem;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>TRIBE: Powered by Bitcoin Cash</h1>
+    <p>A community token rewarding original content and participation.</p>
+  </header>
+  <div class="container">
+    <div class="section">
+      <h2>Explore TRIBE</h2>
+      <p>TRIBE is a limited, creator-first token for BCH supporters. Get in early, join the rewards, and help grow the Bitcoin Cash ecosystem.</p>
+      <div class="buttons">
+        <a href="https://tapswap.cash/trade/148c678c99c8617a9aae675c2ab88d8de7baf794722c289d9116dae8e765b557" target="_blank">Grab Early Bird TRIBE</a>
+        <a href="https://app.cauldron.quest/swap/148c678c99c8617a9aae675c2ab88d8de7baf794722c289d9116dae8e765b557" target="_blank">Swap on Cauldron</a>
+      </div>
+    </div><div class="section">
+  <h2>Latest Articles</h2>
+  <ul>
+    <li><a href="https://read.cash/@alberdioni8406/introducing-tribe-a-community-driven-token-rewarding-original-bch-content-98ac7a57" target="_blank">TRIBE Intro on read.cash</a></li>
+    <li><a href="https://www.publish0x.com/bitcoin-cash-bch-ecosystem/introducing-tribe-a-community-driven-token-rewarding-origina-xrxkwpo" target="_blank">TRIBE on Publish0x</a></li>
+    <li><a href="https://social.wubits.io/share/681c5a509ddb1941303d60d8?rid=64414d1bb2d5db4626c68994&utm_source=link" target="_blank">Wubits Share</a></li>
+    <li><a href="https://bastyon.com/post?s=13c726d550caffb4c211c618dede4f4e699c253d36c294c190464499dbbe43e4&ref=PPZwZcoqm3KYTwyD8KD3Xqdx5iFGurUyU2" target="_blank">Post on Bastyon</a></li>
+    <li><a href="https://grillapp.net/@alberdioni8406/introducing-tribe-a-community-driven-token-rewarding-241057?ref=12733" target="_blank">GrillApp Article</a></li>
+  </ul>
+</div>
+
+  </div>
+  <footer>
+    &copy; 2025 TRIBE on BCH. Built for the people. Hosted on Vercel.
+  </footer>
+</body>
+</html>
